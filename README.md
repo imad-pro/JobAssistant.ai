@@ -1,7 +1,6 @@
 # JobAssistant Full Stack AI App
 
-#### Video Demo:
-  <[https://www.loom.com/share/13fc23fc60944fb4a4ed291ad156b8b0?sid=b2ec63a4-488d-42bf-95f0-230ca29ef8c4]>
+#### Video Demo: [https://www.loom.com/share/982d776693534feea5998fc751310716?sid=12ddb0f7-72c3-4804-a333-a80dba22531c]
 
 #### Description:
 
